@@ -1,4 +1,5 @@
 # Разработка дашборда в DataLens для выбора ниши на маркетплейсе (WB)
+[Ссылка на дашборд в DataLens](https://datalens.yandex/mtoujoileu5s8)
 
 ## Данные
 В рамках проекта был предоставлен доступ к ClickHouse с данными из MPStats.
@@ -12,4 +13,4 @@
 ## Используемый стек
 Яндекс DataLens
 
-[Ссылка на дашборд в DataLens](https://datalens.yandex/mtoujoileu5s8)
+
